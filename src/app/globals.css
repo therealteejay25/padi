@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import '../styles/_keyframe-animations.scss';
+@import '../styles/_variables.scss';
+
+@font-face {
+  font-family: "Manrope";
+  src: url(/Manrope-VariableFont_wght.ttf);
+}
+*{
+  font-family: "Manrope", sans-serif;
+}
+
